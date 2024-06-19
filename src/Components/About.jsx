@@ -8,7 +8,7 @@ function About() {
       <div className="ml-[20vw] relative ">
         <div className="h-[35vw] w-[60vw] m-0 mt-[3vw]  flex">
           <div className='w-1/2 h-full  font-["Montserrat"] '>
-            <p className="  text-[2.1vw]  font-normal flex flex-row pt-[2vw]  ">
+            <p className="  text-[2.1vw]  font-normal flex flex-row pt-[1vw]  ">
               NOW,{" "}
               <h2 className=" contents font-semibold">
                 GET MORE THAN JUST BUS
