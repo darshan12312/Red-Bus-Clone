@@ -34,7 +34,7 @@ function Navbar() {
         </a>
         <a href="https://www.redbus.in/railways">
           <div className="group relative w-[6vw] h-[3.5vw] hover:bg-[#f0f0f0]  duration-300 ease-out  text-[#1D1D1D] rounded-lg flex justify-center items-center ">
-            <WiTrain className=" absolute group-hover:text-[#D84E55] scale-[2.5] top-3 w-full  " />
+            <WiTrain className=" absolute group-hover:text-[#D84E55] h-[2vw] top-1 w-full  " />
             <p className='absolute w-full  font-["Montserrat_Regular"] bottom-2 left-3 text-base'>
               Train Tickets
             </p>

@@ -9,7 +9,7 @@ import { Keyboard, Pagination, Navigation } from 'swiper/modules';
 
 function SwiperCard() {
   return (
-    <div className='relative cursor-pointer z-[10] mt-[-7vw] ml-[17vw]  w-[68vw] h-[17vw] bg-white shadow-2xl rounded-3xl mb-[4vw] '>
+    <div className='relative cursor-pointer  mt-[-7vw] ml-[17vw]  w-[68vw] h-[17vw] bg-white shadow-2xl rounded-3xl mb-[4vw] '>
 
         <div className='header h-5vw  flex justify-between  pl-12 pr-8 pt-10 pb-5'>
             <h2 className='font-["Montserrat"]  text-[#4A4A4A] text-3xl'>TRENDING OFFERS</h2>
